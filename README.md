@@ -8,7 +8,7 @@ This micro development board is specially designed to run Linux. Despite a mini 
 
 
 ### Spectification
-  * T113 with 128MB DDR3, up to 1GHz
+  * T113 with 128MB DDR3, dual A7 up to 1GHz
   * Type-C USB-OTG and HOST
   * 22Pin expand x2(all pins out)
   * TF card
@@ -17,4 +17,5 @@ This micro development board is specially designed to run Linux. Despite a mini 
   * MIC and Audio OUT
   * Fel,reset button
   * 4x4cm size
+  * Industrial level working temperature
 
